@@ -7,23 +7,23 @@ Notes and research for future projects
 The following is just a guide for formatting research. Do whatever is best to communicate the actual information.
 
 ```md
-# <your-title<>
+# your-title
 
 ## Purpose
 
-<your-description>.
+your-description
 
 ## Approaches
 
-### <approach-name-1>
+### approach-name-1
 
 ...
 
-### <approach-name-2>
+### approach-name-2
 
 ...
 
-## <external-concerns>
+## external-concerns
 
 ...
 
